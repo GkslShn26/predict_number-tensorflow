@@ -1,0 +1,2 @@
+#for virtual storage
+source ~/tensorflow/bin/activate # bash, sh, ksh, or zsh
